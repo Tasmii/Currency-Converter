@@ -13,7 +13,7 @@ A simple web application for converting currencies using real-time exchange rate
 
 ## Live Demo
 
-You can check out the live demo of the Currency Converter [here](https://your-live-demo-link.com).
+You can check out the live demo of the Currency Converter [here](https://tasmii.github.io/Currency-Converter/).
 
 ## Installation
 
