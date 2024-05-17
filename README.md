@@ -1,6 +1,4 @@
-Sure! Here is a sample `README.md` file for your Currency Converter project:
 
-```markdown
 # Currency Converter
 
 A simple web application for converting currencies using real-time exchange rates. The application allows users to input an amount, select the source and target currencies, and get the exchange rate instantly. The exchange rates are fetched from an online API.
@@ -82,16 +80,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css) for the icons.
 - [Flags API](https://flagsapi.com/) for the country flags.
 - [Currency API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies) for the exchange rates.
-
-```
-
-This `README.md` file provides an overview of the project, instructions on how to install and use it, a brief explanation of the code structure, and additional information such as contributing guidelines and acknowledgements. Adjust the URLs and project details as necessary to fit your actual project and deployment.
